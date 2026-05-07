@@ -1,0 +1,12 @@
+{
+  "name": "Remix: TeenPulse",
+  "description": "A digital safety and parental awareness dashboard for monitoring teen mobile activities and receiving AI-powered behavior alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "recharts",
+    "motion",
+    "lucide-react"
+  ]
+}
